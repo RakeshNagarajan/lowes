@@ -23,3 +23,8 @@ or
 
 ### Execute the code
 ``` python Playlist-duration.py```
+
+### Expected result
+```$ python Playlist-duration.py ```
+
+```2 hours:12 minutes:26 seconds ```
